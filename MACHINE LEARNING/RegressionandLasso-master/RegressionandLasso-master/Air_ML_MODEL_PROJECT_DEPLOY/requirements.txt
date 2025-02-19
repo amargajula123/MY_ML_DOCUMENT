@@ -1,0 +1,11 @@
+Flask
+gunicorn #interaction with the web server
+Jinja2
+numpy
+scipy
+Werkzeug
+pandas
+scikit-learnr # all the models is basically created byscikit-learnr
+matplotlib
+pickle
+
